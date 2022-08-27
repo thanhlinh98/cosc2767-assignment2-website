@@ -1,6 +1,6 @@
 # cosc2767-assignment2-website
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33709804/187020779-8959b11b-f679-4716-8e9a-93bcaf32c526.png">
+  <img src="https://user-images.githubusercontent.com/33709804/187022244-0d056441-4cc4-4f83-bf22-b5acae235a6c.png">
 </p>
 
   ## 📖 Personal Profile
