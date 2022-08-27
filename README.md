@@ -1,6 +1,6 @@
 # cosc2767-assignment2-website
 <p align="center">
-  <img src="https://i.imgur.com/xt6DYL2.png">
+  <img src="![image](https://user-images.githubusercontent.com/33709804/187020779-8959b11b-f679-4716-8e9a-93bcaf32c526.png)">
 </p>
 
   ## 📖 Personal Profile
